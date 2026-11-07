@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "slug": "v8-four-stroke",
+      "title": "V8 Four-Stroke",
+      "text": "Throttle open to 2,400 rpm, cylinder 4 cut open, then cylinder 2, back to idle, at 1/20 speed.",
+      "added": "2026-11-07",
+      "kb": 807,
+      "credit": "Exempel från teardown av elvarofficial (MIT)"
+    }
+  ]
+}
