@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "slug": "pelagos-oc-8",
+      "title": "Pelagos OC-8",
+      "text": "Pelagos OC-8: the robotic octopus holds station at 12.4 m, the mantle shell petals open to show the pump core and reactor ring, then arm R2 comes apart link by link, all driven by one mission clock",
+      "added": "2026-11-07",
+      "kb": 822,
+      "credit": "Fiktiv maskin, tolkad från teardown-demon av elvarofficial (MIT). Byggd med Teardown Studio."
+    },
+    {
       "slug": "v8-four-stroke",
       "title": "V8 Four-Stroke",
       "text": "Throttle open to 2,400 rpm, cylinder 4 cut open, then cylinder 2, back to idle, at 1/20 speed.",
